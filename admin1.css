@@ -1,0 +1,72 @@
+
+	body{
+		background: url(20.jpg) no-repeat #8daab7;
+		max-height: max-content;
+		max-width: max-content;
+		background-size: cover;
+	}
+	he{
+		height: 300px;
+	padding: 0 0 0 0;
+	margin: 0 0 0em 0;
+	}
+
+		.haut-gauche   h1{
+			color: #000000;
+			font-size: 1.7em;
+			margin: 0 0 0 0px;
+			text-shadow: 1px 1px 1px;
+			}
+			.haut-gauche   h2{
+			margin: 0px 0 0 20px;
+			font-size: 1.1em;
+			letter-spacing: 3px;
+			}
+			.haut-gauche   h2   span{
+			color:#008080;
+			text-align : center;
+		}
+		.a {
+			margin: 5px 5px 5px 100px; /* marges */
+		transition: margin 0.5s; /* durée de transition lorsque l'on survole l'élément (hover) */
+		color: #000000;
+		float: right; 
+		text-decoration: none; 
+		height: 50px; 
+		line-height: 95px;
+		padding: 0 ; 
+		font-size: 20px; 
+		transition: .5s; 
+		letter-spacing: 3px; }
+		.a:hover{
+            color:#008080;
+        }
+		
+		
+		.bulle{
+			width: 70px;
+			height: 70px;
+			border-radius: 50px;
+			border: 1px solid #f1f1f1;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin: 20px 95px;
+			background:#008080;
+			cursor: pointer;
+			position: absolute;
+		
+			}
+			footer{ /* zone du bas */
+				background: #F2F2F2; /* fond */
+				border-top: 1px solid #c0c0c0; /* bordure en haut */
+				margin: 0 0 0 0; /* marge du dessus */
+				text-align: center; /* centrer le texte */
+				padding: 0px 0; /* marge intérieur */
+				}
+				.card3{
+					width: 18rem;
+					margin: 50px 20px 20px 250px;
+					
+				}
+			

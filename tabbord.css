@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	background:#a9a9a9;
+
+}
+table{
+    caption-side: bottom;
+
+}
+th,td{
+    
+    padding: 10px;
+}
+th{
+
+    background-color:#008080;
+    padding:10px;
+}
+foot-lnk{
+	text-align:center;
+	color:#fff;
+	border-color:#1161ee;
+	transform:rotate(0);
+	background:rgba(255,255,255,.1);
+
+}
